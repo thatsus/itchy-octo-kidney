@@ -1,9 +1,9 @@
 {
-    "name": "thatsus/scroll-box",
+    "name": "thatsus/itchy-octo-kidney",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thatsus/scroll-box.git"
+            "url": "https://github.com/thatsus/itchy-octo-kidney.git"
         }
     ]
 }
